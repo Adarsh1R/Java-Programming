@@ -1,0 +1,4 @@
+string constant pool area: When we create String object without using new operator the objects are created in String constant pool area
+
+Mutable: change  in same memory
+Imutable: No change in same memory
